@@ -1,0 +1,40 @@
+.judul	{font-style: bold; 
+		font-size: 100px ;
+		font-family : "Calibri";
+		color: rgb(255, 72, 55);
+		background-color: white;
+		text-align: center;
+}
+
+.cerita {font-size: 25px ;
+		font-family : "Arial";
+		color:white;
+		background-color: rgb(27, 81, 98) ;
+		text-align: justify;
+}
+.end	{font-size: 25px ;
+		font-family : "Arial";
+		color:white;
+		background-color: rgb(27, 81, 98);
+		text-align: center;
+}
+.kontak	{font-style: bold;
+		font-size: 20px	;
+		font-family : monospace;
+		background-color:white;
+		border-style: ridge;color: rgb(27, 81, 98);
+		border-width: 5px;
+		text-align: center;
+}
+img	{height: 300px;
+}
+.gambar	{font-style:italic;
+		font-size: 15px ;
+		font-family : monospace	;
+		color: white;
+		text-align: center ;	
+}
+body {background-image: url("https://lh3.googleusercontent.com/-Ca61ADV-j3E/WspquHE6HsI/AAAAAAAAFOo/nWGrCbatK3oPy-xX3nSFqo_qABQVFpXzACHMYCw/s5000/%255BUNSET%255D");
+		background-repeat: no-repeat;
+		background-size: 1500px;
+}
